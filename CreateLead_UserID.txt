@@ -1,0 +1,16 @@
+P_PERFUser,P_PERFPwd,P_Region
+mxperformance0001@kpmg.com.perf,Hellokpmgfot2006!,MX
+caperformance0005@kpmg.com.perf,Hellokpmgfot2005!,CN
+caperformance0004@kpmg.com.perf,Hellokpmgfot2001!,CN
+caperformance0005@kpmg.com.perf,Hellokpmgfot2001!,CN
+caperformance0005@kpmg.com.perf,Hellokpmgfot2001!,CN
+caperformance0005@kpmg.com.perf,Hellokpmgfot2001!,CN
+mxperformance0002@kpmg.com.perf,Hellokpmgfot2001!,MX
+caperformance0005@kpmg.com.perf,Hellokpmgfot2001!,CN
+brperformance0124@kpmg.com.perf,Hellokpmgfot2001!,BR
+performance02213_sf1@kpmg.com.perf,Hellokpmgfot2001!,US
+mxperformance0002@kpmg.com.perf,Hellokpmgfot2001!,MX
+mxperformance0002@kpmg.com.perf,Hellokpmgfot2001!,MX
+brperformance0124@kpmg.com.perf,Hellokpmgfot2001!,BR
+performance02213_sf1@kpmg.com.perf,Hellokpmgfot2001!,US
+mxperformance0002@kpmg.com.perf,Hellokpmgfot2001!,MX
